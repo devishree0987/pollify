@@ -1,0 +1,25 @@
+# Environment variables
+.env
+.env.local
+
+# Node
+node_modules/
+npm-debug.log*
+
+# React build
+dist/
+build/
+
+# Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
